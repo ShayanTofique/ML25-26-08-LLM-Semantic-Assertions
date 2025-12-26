@@ -6,5 +6,5 @@ This project develops a testing framework for LLMs using .NET/C#. It implements 
 
 ## 2. Team Contributions (Individual Commit Links)
 - Shayan Tofique [1629633]: https://github.com/ShayanTofique/ML25-26-08-LLM-Semantic-Assertions/commits/main/?author=ShayanTofique
-- [Member 2 Name] [Matrikel-Nr]: https://github.com/ShayanTofique/ML25-26-08-LLM-Semantic-Assertions/commits?author=[Member2Username]
+- Aqsa Nisar [1567418]: https://github.com/ShayanTofique/ML25-26-08-LLM-Semantic-Assertions/commits?author=[Member2Username]
 - Arup Mukherjee Bapi [1629042]: https://github.com/ShayanTofique/ML25-26-08-LLM-Semantic-Assertions/commits?author=ArupMukherjeeBapi
