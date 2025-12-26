@@ -1,5 +1,5 @@
 # Project: ML 25/26-08 - Semantic Assertions for LLMs
-**Team Name:** [Insert Your Team Name Here]
+**Team Name:** SE-LLM-Testing-Team
 
 ## 1. Project Overview
 This project develops a testing framework for LLMs using .NET/C#. It implements semantic similarity checks (Cosine Similarity) and "LLM-as-a-Judge" to verify output accuracy beyond simple string matching.
